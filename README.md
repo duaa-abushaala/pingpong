@@ -32,5 +32,5 @@ This is a simple implementation of the classic Ping Pong game using Python's tur
 <h2>Program Walkthrough:</h2>
 <p align="center">
     Begin/Display Page: <br/>
-    <img src="https://imgur.com/ufckf9P" height="80%" width="80%" alt="Ping Pong Walkthrough"/>
+    <img src="https://imgur.com/ufckf9P.png" height="80%" width="80%" alt="Ping Pong Walkthrough"/>
 </p>
